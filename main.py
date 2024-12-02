@@ -1,6 +1,6 @@
 def my_superfunction():
     print("What an awesome print!")
-    # Создано в 02.12.2024
+    # Создано мною
 
 
 def main():
